@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1650171598,,"wq"
+|2,0,1650172214,,"wq"
 :q
 |2,0,1650171594,,"q"
 
@@ -27,14 +27,33 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/f1
-|4,48,1,0,1650171598,"~/f1"
+'0  4  6  ~/index.html
+|4,48,4,6,1650172214,"~/index.html"
+'1  1  0  ~/f1
+|4,49,1,0,1650171598,"~/f1"
 
 # Jumplist (newest first):
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
+-'  1  0  ~/f1
+|4,39,1,0,1650171598,"~/f1"
 -'  1  0  ~/f1
 |4,39,1,0,1650171598,"~/f1"
 
 # History of marks within files (newest to oldest):
+
+> ~/index.html
+	*	1650172212	0
+	"	4	6
+	^	4	7
+	.	5	0
+	+	4	7
+	+	2	0
+	+	3	0
+	+	4	7
+	+	5	0
 
 > ~/f1
 	*	1650171594	0
