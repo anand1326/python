@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1650172214,,"wq"
+|2,0,1652857041,,"wq"
 :q
 |2,0,1650171594,,"q"
 
@@ -27,22 +27,251 @@
 # Registers:
 
 # File marks:
-'0  4  6  ~/index.html
-|4,48,4,6,1650172214,"~/index.html"
-'1  1  0  ~/f1
-|4,49,1,0,1650171598,"~/f1"
+'0  8  34  ~/ff1
+|4,48,8,34,1652857041,"~/ff1"
+'1  2  0  ~/merge-conflict/myinfo
+|4,49,2,0,1651031321,"~/merge-conflict/myinfo"
+'2  3  18  ~/merge-conflict/myinfo
+|4,50,3,18,1651030815,"~/merge-conflict/myinfo"
+'3  2  19  ~/merge-conflict/myinfo
+|4,51,2,19,1651030685,"~/merge-conflict/myinfo"
+'4  2  19  ~/merge-conflict/myinfo
+|4,52,2,19,1651030685,"~/merge-conflict/myinfo"
+'5  2  19  ~/merge-conflict/myinfo
+|4,53,2,19,1651030685,"~/merge-conflict/myinfo"
+'6  2  19  ~/merge-conflict/myinfo
+|4,54,2,19,1651030685,"~/merge-conflict/myinfo"
+'7  2  18  ~/merge-conflict/myinfo
+|4,55,2,18,1651030595,"~/merge-conflict/myinfo"
+'8  2  18  ~/merge-conflict/myinfo
+|4,56,2,18,1651030595,"~/merge-conflict/myinfo"
+'9  2  18  ~/merge-conflict/myinfo
+|4,57,2,18,1651030595,"~/merge-conflict/myinfo"
 
 # Jumplist (newest first):
+-'  8  34  ~/ff1
+|4,39,8,34,1652857041,"~/ff1"
+-'  1  0  ~/ff1
+|4,39,1,0,1652856997,"~/ff1"
+-'  2  0  ~/merge-conflict/myinfo
+|4,39,2,0,1651031321,"~/merge-conflict/myinfo"
+-'  2  0  ~/merge-conflict/myinfo
+|4,39,2,0,1651031321,"~/merge-conflict/myinfo"
+-'  3  18  ~/merge-conflict/myinfo
+|4,39,3,18,1651030815,"~/merge-conflict/myinfo"
+-'  3  18  ~/merge-conflict/myinfo
+|4,39,3,18,1651030815,"~/merge-conflict/myinfo"
+-'  2  19  ~/merge-conflict/myinfo
+|4,39,2,19,1651030796,"~/merge-conflict/myinfo"
+-'  2  19  ~/merge-conflict/myinfo
+|4,39,2,19,1651030796,"~/merge-conflict/myinfo"
+-'  2  19  ~/merge-conflict/myinfo
+|4,39,2,19,1651030685,"~/merge-conflict/myinfo"
+-'  2  19  ~/merge-conflict/myinfo
+|4,39,2,19,1651030685,"~/merge-conflict/myinfo"
+-'  3  18  ~/merge-conflict/myinfo
+|4,39,3,18,1651030679,"~/merge-conflict/myinfo"
+-'  3  18  ~/merge-conflict/myinfo
+|4,39,3,18,1651030679,"~/merge-conflict/myinfo"
+-'  3  18  ~/merge-conflict/myinfo
+|4,39,3,18,1651030595,"~/merge-conflict/myinfo"
+-'  3  18  ~/merge-conflict/myinfo
+|4,39,3,18,1651030595,"~/merge-conflict/myinfo"
+-'  1  0  ~/merge-conflict/myinfo
+|4,39,1,0,1651030573,"~/merge-conflict/myinfo"
+-'  1  0  ~/merge-conflict/myinfo
+|4,39,1,0,1651030573,"~/merge-conflict/myinfo"
+-'  1  0  ~/merge-conflict/myinfo
+|4,39,1,0,1651030573,"~/merge-conflict/myinfo"
+-'  1  0  ~/merge-conflict/myinfo
+|4,39,1,0,1651030573,"~/merge-conflict/myinfo"
+-'  1  0  ~/merge-conflict/myinfo
+|4,39,1,0,1651030573,"~/merge-conflict/myinfo"
+-'  1  0  ~/merge-conflict/myinfo
+|4,39,1,0,1651030573,"~/merge-conflict/myinfo"
+-'  1  0  ~/merge-conflict/myinfo
+|4,39,1,0,1651030573,"~/merge-conflict/myinfo"
+-'  1  0  ~/merge-conflict/myinfo
+|4,39,1,0,1651030573,"~/merge-conflict/myinfo"
 -'  4  6  ~/index.html
 |4,39,4,6,1650172214,"~/index.html"
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  4  6  ~/index.html
+|4,39,4,6,1650172214,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1650172152,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1650172152,"~/index.html"
 -'  1  0  ~/f1
 |4,39,1,0,1650171598,"~/f1"
 -'  1  0  ~/f1
 |4,39,1,0,1650171598,"~/f1"
+-'  1  0  ~/f1
+|4,39,1,0,1650171598,"~/f1"
+-'  1  0  ~/f1
+|4,39,1,0,1650171598,"~/f1"
+-'  1  0  ~/f1
+|4,39,1,0,1650171598,"~/f1"
+-'  1  0  ~/f1
+|4,39,1,0,1650171598,"~/f1"
+-'  1  0  ~/f1
+|4,39,1,0,1650171598,"~/f1"
+-'  1  0  ~/f1
+|4,39,1,0,1650171598,"~/f1"
+-'  1  0  ~/f1
+|4,39,1,0,1650171598,"~/f1"
+-'  1  0  ~/f1
+|4,39,1,0,1650171598,"~/f1"
+-'  1  0  ~/f1
+|4,39,1,0,1650171598,"~/f1"
+-'  1  0  ~/f1
+|4,39,1,0,1650171598,"~/f1"
+-'  1  0  ~/f1
+|4,39,1,0,1650171598,"~/f1"
+-'  1  0  ~/f1
+|4,39,1,0,1650171598,"~/f1"
 
 # History of marks within files (newest to oldest):
+
+> ~/ff1
+	*	1652857037	0
+	"	8	34
+	^	8	35
+	.	8	7
+	+	8	7
+
+> ~/merge-conflict/myinfo
+	*	1651031318	0
+	"	2	0
+	^	2	0
+	.	3	0
+	+	2	15
+	+	2	18
+	+	2	19
+	+	2	18
+	+	2	14
+	+	2	18
+	+	4	0
+	+	3	0
 
 > ~/index.html
 	*	1650172212	0
